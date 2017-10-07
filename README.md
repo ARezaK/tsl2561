@@ -50,7 +50,7 @@ Just run `make`.
 
 ### Python language
 
-Run `sudo python setup.py build`
+Run `sudo python setup.py build install`
 
 
 ## Usage
